@@ -7,12 +7,12 @@ Ich bin **Julian Rademacher** und seit etlichen Jahren im Internet unterwegs.
 Ich bin in Berlin aufgewachsen, wohne nun aber in [Hohen Neuendorf][HN],
  Brandenburg, im Speckgürtel und bin hier sehr glücklich.
 
-[<img src="./assets/moortaube.png" style="background:#fff;border-radius:40% 40% 0 0;width:230px;max-width:100%;" />][blog]
+[<img src="./assets/moortaube.jpg" style="width:230px;max-width:100%;" />][blog]
 
 [Seit fast 12 Jahren][ersterPost] betreibe ich [einen persönlichen Blog][blog],
  der in letzter Zeit leider etwas zu kurz gekommen ist.
 
-[<img src="./assets/d3w.png" style="background:#fff;border-radius:50%;width:230px;max-width:100%;" />][D3W]
+[<img src="./assets/d3w.png" style="width:230px;max-width:100%;" />][D3W]
 
 Seit einigen Jahren bin ich neben meinem Hauptberuf als Webentwickler &
  Systemadministrator bei der [fiveandfriends GmbH][fiveandfriends] auch als
@@ -27,7 +27,7 @@ Im Jahr 2022 werde ich keine Zeit mehr finden, neue Projekte umzusetzen. Ich
 
 Danach stehe ich aber gerne für Anfragen bereit:
 
-[<img src="./assets/visitenkarte.png" style="border-radius:15px;width:500px;max-width:100%;" />][c]
+[<img src="./assets/visitenkarte.png" style="width:500px;max-width:100%;" />][c]
 
 
 [HN]: https://hohen-neuendorf.de/
