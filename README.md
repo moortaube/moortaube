@@ -30,6 +30,20 @@ Danach stehe ich aber gerne für Anfragen bereit:
 [<img src="./assets/visitenkarte.png" style="width:500px;max-width:100%;" />][c]
 
 
+## Soziale Netzwerke
+
+Als es im April 2022 dazu kam, dass Twitter von Elon Musk gekauft werden wollte,
+ entschied ich mich, wie viele andere, in Zukunft meinen Mastodon-Account etwas
+ aktiver zu bespielen. Aus diesem Grund werde ich hier auch nur meine beiden
+ Mastodon-Handles verlinken:
+
+- <a rel="me" href="https://mstdn.io/@moortaube">@moortaube@mstdn.io</a>
+- <a rel="me" href="https://mas.to/@d3w">@d3w@mas.to</a>
+
+Auf anderen Plattformen bin ich zwar auch zu finden, halte mich da aber selten
+ bis gar nicht auf.
+
+
 [HN]: https://hohen-neuendorf.de/
 
 [blog]: https://blog.moortaube.de/
