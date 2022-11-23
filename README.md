@@ -37,8 +37,8 @@ Als es im April 2022 dazu kam, dass Twitter von Elon Musk gekauft werden wollte,
  aktiver zu bespielen. Aus diesem Grund werde ich hier auch nur meine beiden
  Mastodon-Handles verlinken:
 
-- <a rel="me" href="https://mstdn.io/@moortaube">@moortaube@mstdn.io</a>
-- <a rel="me" href="https://mas.to/@d3w">@d3w@mas.to</a>
+- [@moortaube@mstdn.io]
+- [@d3w@mas.to]
 
 Auf anderen Plattformen bin ich zwar auch zu finden, halte mich da aber selten
  bis gar nicht auf.
@@ -53,3 +53,6 @@ Auf anderen Plattformen bin ich zwar auch zu finden, halte mich da aber selten
 
 [D3W]: https://d3w.dev/
 [c]: https://d3w.dev/c/
+
+[@moortaube@mstdn.io]: https://mstdn.io/@moortaube
+[@d3w@mas.to]: https://mas.to/@d3w
