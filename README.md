@@ -14,8 +14,8 @@ Ich bin in Berlin aufgewachsen, wohne nun aber in [Hohen Neuendorf][HN],
 
 [<img src="./assets/d3w.png" style="width:230px;max-width:100%;" />][D3W]
 
-Seit einigen Jahren bin ich neben meinem Hauptberuf als Einzelunternehmer als
- Webentwickler & Systemadministrator unter dem Namen
+Seit einigen Jahren bin ich neben meinem Hauptberuf auch einzelunternehmerisch
+ als Webentwickler & Systemadministrator unter dem Namen
  [Julian Rademacher – Die drei Webstandards][D3W] tätig.
 
 
@@ -36,8 +36,8 @@ Als es im April 2022 dazu kam, dass Twitter von Elon Musk gekauft werden wollte,
 - [@moortaube@mstdn.io]
 - [@d3w@mas.to]
 
-Auf anderen Plattformen bin ich zwar auch zu finden, halte mich da aber selten
- bis gar nicht auf.
+Auf anderen Plattformen bin ich zwar auch (noch) zu finden, halte mich da aber
+ selten bis gar nicht auf.
 
 
 [HN]: https://hohen-neuendorf.de/
