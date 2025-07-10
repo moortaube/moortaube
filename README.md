@@ -9,8 +9,8 @@ Ich bin in Berlin aufgewachsen, wohne nun aber in [Hohen Neuendorf][HN],
 
 [<img src="./assets/moortaube.jpg" style="width:230px;max-width:100%;" />][blog]
 
-[Seit fast 13 Jahren][ersterPost] betreibe ich [einen persönlichen Blog][blog],
- der in letzter Zeit leider etwas zu kurz gekommen ist.
+[Seit über 15 Jahren][ersterPost] betreibe ich [einen persönlichen Blog][blog],
+ der in den letzten Jahren leider immer etwas zu kurz gekommen ist.
 
 [<img src="./assets/d3w.png" style="width:230px;max-width:100%;" />][D3W]
 
